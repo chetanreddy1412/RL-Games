@@ -1,9 +1,9 @@
-cv2==4.1.2
-gym==0.17.3
-matplotlib==3.2.2
+opencv-python
+gym
+matplotlib
 nqueens
-numpy==1.19.5
+numpy
 torch
 tensorflow
 pynput
-tqdm==4.62.3
+tqdm
