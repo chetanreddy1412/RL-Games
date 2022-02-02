@@ -18,13 +18,11 @@ import copy
 
 import cv2
 
-from IPython.display import HTML
 from collections import namedtuple, deque
 from itertools import count
 from base64 import b64encode
 from pynput.keyboard import Listener
 
-from IPython import display
 import torch
 from tqdm.notebook import tqdm
 from torch import nn
