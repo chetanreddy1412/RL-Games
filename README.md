@@ -7,9 +7,9 @@ To play against the trained bot:
    git clone https://github.com/chetanreddy1412/RL-Games.git
    pip install -r requirements.txt
 3. Run the Human_vs_AI.py file
-  ```bash
-  python Human_vs_AI.py
-  ```
+   ```bash
+   python Human_vs_AI.py
+   ```
 4. One can either play against a random agent (to understand the enviroment and get used to the controls) or the trained agent.
 5. About the environment:
 - The Blue Snake is the player and the Red Snake is the bot
