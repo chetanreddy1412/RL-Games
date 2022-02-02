@@ -2,8 +2,11 @@
 This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare2compete.com/hackathon/rl-games-shaastra-2022-indian-institute-of-technology-iit-madras-244941)
 
 To play against the trained bot:
-1. Git clone the repository
-2. Run the Human_vs_AI.py file
+1. Git clone the repository and install the required packages
+   ```bash
+   git clone https://github.com/chetanreddy1412/RL-Games.git
+   pip install -r requirements.txt
+3. Run the Human_vs_AI.py file
   ```bash
   python Human_vs_AI.py
   ```
