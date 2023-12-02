@@ -1,5 +1,19 @@
 # RL-Games
-This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare2compete.com/hackathon/rl-games-shaastra-2022-indian-institute-of-technology-iit-madras-244941). We created agents using Deep Reinforcement Learning(RL) to compete against each other in a virtual two-player 2D game setting. We implemented two Deep RL methods, namely, deep Q networks and a vanilla policy gradient. A novel feature engineering technique inspired by the decision tree approach was crafted to represent the game board and the state of the snakes. We trained the agents in an iterative manner where a random agent plays against a semi-trained agent (from the previous iteration). Our agents could dominate the score and win every game in the tournament. **With over 700 participants from across the country, we emerged as the Winners.**
+This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare2compete.com/hackathon/rl-games-shaastra-2022-indian-institute-of-technology-iit-madras-244941). 
+
+## Videos:
+1. [![Watch the video](https://github.com/chetanreddy1412/RL-Games/blob/main/Winners%20Certificate.jpg)]([https://youtu.be/](https://github.com/chetanreddy1412/RL-Games/blob/main/Videos/Trained%20Bot%20vs%20Itself.mp4))
+
+
+https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71
+
+
+## Implementation:
+1. We created agents using Deep Reinforcement Learning(RL) to compete against each other in a virtual two-player 2D game setting.
+2. We implemented two Deep RL methods, namely, deep Q networks and a vanilla policy gradient.
+3. A novel feature engineering technique inspired by the decision tree approach was crafted to represent the game board and the state of the snakes.
+4. We trained the agents in an iterative manner where a random agent plays against a semi-trained agent (from the previous iteration).
+5. Our agents could dominate the score and win every game in the tournament. **With over 700 participants from across the country, we emerged as the Winners.**
 ![Winning Certificate](https://github.com/chetanreddy1412/RL-Games/blob/main/Winners%20Certificate.jpg)
 
 
