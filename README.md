@@ -3,7 +3,7 @@ This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare
 
 ## Videos:
 1. Video of the agent in action (Blue represents our agent while Red represents another participant in the tournament):
-https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71
+![Agent in a Tournament Game](https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71)
 
 2. Video of the our trained agent playing against itself:
 https://github.com/chetanreddy1412/RL-Games/assets/60615610/636d251b-37ed-441b-b260-1e867a93aa20
