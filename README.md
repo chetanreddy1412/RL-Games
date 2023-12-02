@@ -2,10 +2,13 @@
 This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare2compete.com/hackathon/rl-games-shaastra-2022-indian-institute-of-technology-iit-madras-244941). 
 
 ## Videos:
-1. [![Watch the video](https://github.com/chetanreddy1412/RL-Games/blob/main/Winners%20Certificate.jpg)]([https://youtu.be/](https://github.com/chetanreddy1412/RL-Games/blob/main/Videos/Trained%20Bot%20vs%20Itself.mp4))
-
-
+1. Video of the agent in action (Blue represents our agent while Red represents another participant in the tournament):
 https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71
+
+2. Video of the our trained agent playing against itself:
+https://github.com/chetanreddy1412/RL-Games/assets/60615610/636d251b-37ed-441b-b260-1e867a93aa20
+
+
 
 
 ## Implementation:
