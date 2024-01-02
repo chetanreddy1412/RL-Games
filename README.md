@@ -9,7 +9,6 @@ https://github.com/chetanreddy1412/RL-Games/assets/60615610/f9a485a5-034c-4170-b
 
 
 2. Video of the our trained agent playing against itself:
-![Our Agent playing against a Copy of Itself](https://github.com/chetanreddy1412/RL-Games/assets/60615610/636d251b-37ed-441b-b260-1e867a93aa20)
 
 https://github.com/chetanreddy1412/RL-Games/assets/60615610/f9557500-c308-44c8-a054-db1c6313d07b
 
