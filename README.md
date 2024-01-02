@@ -6,10 +6,20 @@ This project as a part of the [RL Games Hackathon in Shaastra 2022](https://dare
 https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71
 
 
+
+https://github.com/chetanreddy1412/RL-Games/assets/60615610/3e88534b-9ad6-4b7c-868c-b1edf440aacb
+
+
 ![Our Agent in a Tournament Game](https://github.com/chetanreddy1412/RL-Games/assets/60615610/4d3b1439-be8f-4aef-a992-0c36f62a2d71)
 
 2. Video of the our trained agent playing against itself:
 ![Our Agent playing against a Copy of Itself](https://github.com/chetanreddy1412/RL-Games/assets/60615610/636d251b-37ed-441b-b260-1e867a93aa20)
+
+
+https://github.com/chetanreddy1412/RL-Games/assets/60615610/f9557500-c308-44c8-a054-db1c6313d07b
+
+
+
 
 
 
